@@ -1,0 +1,28 @@
+* {
+  margin: 10px;
+  padding: 5px;
+}
+body {
+  background-color: #5ca149;
+  background-repeat: no-repeat;
+  border: 5px ridge #b83e4f
+}
+table {
+  border-color: #000;
+}
+a {
+  color: #9225a1;
+}
+#header {
+  background-color: #F4943A
+}
+#footer {
+  background-color: #F4943A
+}
+#header {
+  position: relative;
+  background-image: url("foto's/PartijvoordeDieren.png");
+background-repeat: no-repeat;
+background-position: 85% 20%;
+background-size: 162px 162px;
+}
